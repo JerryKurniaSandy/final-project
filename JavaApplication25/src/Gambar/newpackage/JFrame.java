@@ -35,11 +35,11 @@ public class JFrame extends javax.swing.JFrame {
         panelGambar1.setLayout(panelGambar1Layout);
         panelGambar1Layout.setHorizontalGroup(
             panelGambar1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 588, Short.MAX_VALUE)
+            .addGap(0, 512, Short.MAX_VALUE)
         );
         panelGambar1Layout.setVerticalGroup(
             panelGambar1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 330, Short.MAX_VALUE)
+            .addGap(0, 398, Short.MAX_VALUE)
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
