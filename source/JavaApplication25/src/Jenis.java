@@ -1,4 +1,6 @@
+//class Jenis abstract yang mengimplemen HotelMantap
 public abstract class Jenis implements HotelMantap {
+    //Deklarasi variabel
     protected String tipe;
     protected boolean status;
     protected double diskon;
