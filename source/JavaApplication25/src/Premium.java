@@ -33,7 +33,7 @@ public class Premium extends Jenis {
     }
     //implementasi dari method abstrack pada kelas jenis
     @Override
-    //Deklarasi method getDiskon dengan seleksi kondisi if-else antar variabel
+    //Deklarasi method getDiskon dengan seleksi kondisi if-else antar variabel dan method
     public double getDiskon() {
         double d;
         if(pelanggan.getAkumulasi()>9&&pelanggan.getAkumulasi()<=30)
