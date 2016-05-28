@@ -50,3 +50,4 @@ public class Premium extends Jenis {
     public double total(){return (invoice-getDiskon());}
     
 }
+//Uji Coba

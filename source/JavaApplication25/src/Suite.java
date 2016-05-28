@@ -50,3 +50,4 @@ public class Suite extends Jenis {
      //Deklarasi method total beserta perhitungan variabel dan method
     public double total(){return (invoice-getDiskon());}
 }
+//Uji Coba

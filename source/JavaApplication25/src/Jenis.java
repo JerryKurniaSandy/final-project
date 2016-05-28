@@ -22,3 +22,4 @@ public abstract class Jenis implements HotelMantap {
     //Deklarasi pemanggilan method abstract getDiskon
     public abstract double getDiskon();
 }
+//Uji Coba

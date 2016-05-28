@@ -27,3 +27,4 @@ public class Pelanggan {
     //Method untuk mengubah nilai variabel akumulasi
     public void setAkumulasi(int a){this.akumulasi=this.akumulasi+a;}
 }
+//Uji Coba

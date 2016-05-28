@@ -9,3 +9,4 @@ public interface HotelMantap {
     //Deklarasi method getDiskon
     public double getDiskon();
 }
+//Uji Coba
